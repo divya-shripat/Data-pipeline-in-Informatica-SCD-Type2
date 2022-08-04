@@ -1,0 +1,1 @@
+# Data-pipeline-in-Informatica-SCD-Type2
